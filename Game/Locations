@@ -1,0 +1,8 @@
+using System;
+namespace GameMaker.Game.Movement
+{
+	public class Movement
+	{
+		//create new folder instead probably
+	}
+}

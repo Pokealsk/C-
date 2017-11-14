@@ -1,0 +1,15 @@
+﻿    Combat System - Working
+    Characters - Working
+    Areas
+    Enemies
+    Experience Values
+    Item System (Finding Items, Item Value)
+    Criticals - Working - even better
+    NPC Encounters
+    Help Options / Command list
+    Spells
+    Bosses
+    Status Effects
+	Bow makes you always attack first NEED TO IMPLEMENT
+	Level up system
+	MAKE OTHER THINGS THAN JUST COMBAT IN PLACES
